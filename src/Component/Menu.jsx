@@ -78,11 +78,12 @@ const Menu = () => {
     {
       picture: meal20,
     },
+
   ];
 
   return (
     <div>
-      <div className="bg-black flex content-center  justify-center">
+      <div className="bg-black flex content-center  justify-center ">
         <a href="/">
           <img
             className="p-8 rounded-t-lg w-96 md:w-100 "
