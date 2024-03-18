@@ -22,6 +22,7 @@ import meal20 from "../asset/Menu/20.png";
 
 import logo from "../asset/logo.png";
 
+import { PacmanLoader } from "react-spinners";
 const Menu = () => {
   const menu = [
     {
@@ -78,7 +79,6 @@ const Menu = () => {
     {
       picture: meal20,
     },
-
   ];
 
   return (
