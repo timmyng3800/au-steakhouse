@@ -18,7 +18,7 @@ import meal16 from "../asset/Menu/16.png";
 import meal17 from "../asset/Menu/17.png";
 import meal18 from "../asset/Menu/18.png";
 import meal19 from "../asset/Menu/19.png";
-import meal20 from "../asset/Menu/20.png";
+import meal20 from "../asset/Menu/20-update.png";
 
 import logo from "../asset/logo.png";
 
